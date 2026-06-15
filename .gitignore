@@ -1,0 +1,14 @@
+.env
+.DS_Store
+Procfile
+.vscode/
+CLAUDE.md
+.claude/
+uploads/
+__pycache__/
+venv/
+*.pyc
+*.pyo
+instance/
+markdown_files/
+.planning/
